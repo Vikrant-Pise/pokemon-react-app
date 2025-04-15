@@ -12,7 +12,7 @@ A fun and simple Pokémon browser built with React and Vite using the PokeAPI.
 ## Technologies
 - React.js
 - Vite
-- Bootstrap (or your CSS)
+- CSS
 - PokeAPI
 
 ## Author
